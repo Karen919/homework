@@ -1,0 +1,17 @@
+@import url(reset.css);
+@import url(header.css);
+@import url(div2.css);
+@import url(div3.css);
+@import url(div4.css);
+@import url(div5.css);
+@import url(div6.css);
+@import url(div7.css);
+@import url(div8.css);
+@import url(div9.css);
+body {
+    display: flex;
+    flex-direction: column;
+}
+*img {
+    display: inline-block;
+}

@@ -1,0 +1,80 @@
+.div2 {
+    background-color: #364c56;
+
+    display: flex;
+    flex-direction: row;
+}
+.div2-1 {
+    width: 50%;
+    
+}
+.span1-1 {
+    display: block;
+    font-size: 360%;
+    color: antiquewhite;
+    width: 65%;
+    margin-left: 27%;
+    margin-top: 30%;
+    text-align: left;
+}
+.span1-2 {
+    display: block;
+    color: rgb(239, 238, 237);
+    width: 65%;
+    margin-top: 7%;
+    margin-left: 27%;
+    text-align: left;
+    font-size: 20px;
+    line-height: 1.9;
+    font-family:Georgia, Times, ;
+}
+           /********/
+           
+.span2-4 img {
+    position: relative;
+    width: 420px;
+    height: 547px;
+    box-shadow: 2px 2px 40px 0 rgba(0, 0, 0, 0.4);
+    margin-left: 20%;
+    margin-top:39%;
+    z-index: 8;
+}  
+.span2-3 {
+    box-sizing: border-box;
+    border: #edf0f2 solid 15px;
+    width: 10%;
+    height: 60%;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 27%;
+    z-index: 2;
+}   
+.span2-5 {
+    position: absolute;
+    width: 415px;
+    height: 480px;
+    background-image: linear-gradient(#bf795c, #364c56);
+    margin-top: -27%;
+}  
+.span2-1 {
+    background: linear-gradient(
+        45deg, 
+        #bf795c 0, #bf795c 25%, transparent 25%, transparent 50%, 
+        #bf795c 50%, #bf795c 75%, transparent 75%, transparent
+      );
+  background-size: 20px 20px;
+  width: 20%;
+  height: 15%;
+  position: absolute;
+  margin-top: 45%;
+  margin-left: 10%;
+  z-index: 12;
+}
+.span2-2 {
+    background-image: linear-gradient(-45deg, #293033, #364c56);
+    width: 70%;
+    height: 100%;
+    position: absolute;
+    margin-left: -20%;
+    margin-top: 38%;
+}

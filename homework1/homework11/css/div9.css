@@ -1,0 +1,17 @@
+.div9 {
+    display: flex;
+    justify-content: center;
+    background-color: #364c56;
+    height: auto;
+    width: 100%;
+}
+.div9 span {
+    padding: 60px 140px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: start;
+}
+.div9 span h2 {
+    font-size: 20px;
+    padding-bottom: 20px;
+}

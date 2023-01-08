@@ -1,0 +1,75 @@
+footer {
+    display: flex;
+    flex-direction: column;
+}
+
+.div8 {
+    background-image: linear-gradient(#364c56, #293033);
+    font-family: Raleway,sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-top: 1230px;
+    padding: 300px;
+   
+    
+}
+.span8-3 {
+    text-align: center;
+    font-size: 70px;
+    color: aliceblue;
+    position: absolute;
+    margin-left: 250px;
+    margin-top: -70px;
+    z-index: 88;
+    
+}
+.div8 button {
+    background-color: rgba(250, 235, 215, 0);
+    height: 60px;
+    width: 190px;
+    border: #f1f4f6 solid 2px;
+    text-align: center;
+    margin-left: 360px;
+    margin-top: 30px;
+    position: absolute;
+    z-index: 83;
+    
+}
+.div8 button a {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+
+
+
+}
+.div8 button:hover {
+    background-color: #e2e9ec;
+}
+.div8 button a:hover {
+    color: #364c56;
+    
+}
+.span8-1 {
+    width: 908px;
+    min-height: 250px;
+    height: auto;
+    background-image: linear-gradient(to right, #364c56, #bf795c);
+    position: absolute;
+    margin-top: -100px;
+    z-index: 80;
+}
+
+.span8-2 {
+    background: linear-gradient(
+        45deg, 
+        rgba(246, 244, 244, 0.5) 0, rgba(246, 245, 244, 0.5) 25%, transparent 25%, transparent 50%, 
+        rgba(240, 237, 236, 0.5) 50%, rgba(252, 251, 251, 0.5) 75%, transparent 75%, transparent
+      );
+        background-size: 20px 20px;
+        position: absolute;
+        
+        padding: 190px 540px;
+        margin-top: -160px;
+        margin-left: -80px;
+}

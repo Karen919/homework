@@ -1,0 +1,83 @@
+.span7-2 {
+    background-image: linear-gradient(#364c56, #293033);
+    width: 780px;
+    height: 567px;
+    padding: 200px;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 336px;
+    z-index: 50;
+}
+.span7-1 img {
+    width: 459px;
+    height: 553px;
+    filter: brightness(0.85);
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 200px;
+    z-index: 71;
+    
+}
+.span7-3 {
+    background-image: linear-gradient(#bf795c, #364c56);
+    width: 540px;
+    height: 703px;
+    padding: auto;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 60px;
+    z-index: 70;
+}
+.span7-4 {
+    padding: auto;
+    border: #f8f4f3 15px solid;
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 100px;
+    z-index: 70;
+}
+.span7-5 {
+    position: absolute;
+    z-index: 76;
+    width: 500px;
+    margin-top: 600px;
+    margin-left: 800px;
+    color: #f8f4f3;
+
+}
+.span7-5 h1 {
+    font-size: 50px;
+    width: 400px;
+    margin: 50px 0;
+}
+.span7-5 p {
+    font-size: 20px;
+    line-height: 1.3;
+}
+.div7 button  {
+    margin-top: 1100px;
+    margin-left: 800px;
+    position: absolute; 
+    z-index: 77;
+    text-decoration: none;
+    background-color: #bf7a5c00;
+    height: 70px;
+    border: #f8f4f3 solid 2px;
+    
+}
+.div7 button a {
+    text-decoration: none;
+    color: #f8f4f3;
+    padding: 40px;
+    font-size: 20px;
+}
+.div7 button:hover {
+    background-color: #f2ebe8;
+    color: #000000;
+    padding: auto;
+}
+button a:hover {
+    color: #000000;
+}

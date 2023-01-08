@@ -1,0 +1,182 @@
+.div1 {
+    background-color: #364c56;
+    display: flex;
+    justify-content: center;
+    height: 800px;
+}
+@media screen and (max-width:700px) {
+    .div1 {
+        display: flex;
+        flex-direction: column;
+        
+    }
+}
+.ground1 h1 {
+    color: aliceblue;
+    padding-top: 7%;
+    padding-left: 6%;
+    font-size: 150%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',;
+    
+}
+.header1 {
+    
+
+    margin-top: 200px;
+    margin-left: 100px;
+    width: 300px;
+    padding-right: 200px;
+    
+    
+
+}
+@media (max-width:700px) {
+
+    
+}
+
+.ground1 {
+    background-image: linear-gradient(#bf795c, #364c56);
+    position: absolute;
+    
+    width: 28%;
+    height: 60%;
+    margin-top: -5%;
+    margin-left: -7%;
+}
+    @media (max-width:700px) {
+    .ground1 {
+        width: 60%;
+        margin-left: -12%;
+        margin-top: -20%;
+        font-size: 80%;
+        
+    }
+    
+}
+
+
+
+.ground2 {
+    
+
+    width: 24%;
+    height: 53%;
+    border: cornsilk 16px solid;
+    position: absolute;
+    z-index: 2;
+    margin-top: 5%;
+    margin-left: -3%;
+}
+@media (max-width:700px) {
+    .ground2 {
+        width: 40%;
+        height: 60%;
+        margin-left: -7%;
+        margin-top: -10%;
+    }
+}
+
+.ground3 img {
+    position: absolute;
+    width: 30%;
+    z-index: 3;
+   
+    
+}
+@media (max-width:700px) {
+    .ground3 img {
+        width: 60%;
+        height: 50%;
+    }
+}
+
+
+
+.ground4 {
+    width: 17%;
+    height: 17%;
+    position: absolute;
+    background: linear-gradient(
+          45deg, 
+          rgba(244, 245, 244, 0.5) 0, rgba(237, 239, 238, 0.5) 25%, transparent 25%, transparent 50%, 
+          rgba(248, 249, 248, 0.5) 50%, rgba(237, 239, 238, 0.5) 75%, transparent 75%, transparent
+        );
+    background-size: 20px 20px;
+z-index: 2;
+margin-top: 27%;
+margin-left: 10%;
+  
+}
+
+.ground5 h1  {
+    position: absolute;
+    z-index: 5;
+    color: antiquewhite;
+    margin-top: -4%;
+    font-size: 150%;
+    margin-left: -4%;
+    
+}
+
+   
+                    /*header2*/
+
+.header2 {
+    margin-left: -7%;
+    margin-top: 5%;
+    width: 44%;
+    height: 90%;
+    background-image: linear-gradient(-45deg, #364c56, #293033);
+}
+@media (max-width:700px) {
+    .header2 {
+        margin-top: 190%;
+    }
+}
+.ground1-1  {
+    box-sizing: border-box;
+    color: beige;
+    font-size: 460%;
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 3%;
+    width: 40%;
+    z-index: 8;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ground1-2 {
+    position: absolute;
+    color: aliceblue;
+    font-size: 27px;
+    width: 25%;
+    margin-top: 20%;
+    margin-left: 9%;
+}
+
+.ground1-3 button {
+    box-sizing: border-box;
+    color: rgb(232, 241, 241);
+    background-color: #364c5600;
+    position: absolute;
+     margin-left: 9%;
+     margin-top: 37%;
+     font-size: 20px;
+     padding: 20px 29px;
+     border: #ffffff groove;
+     cursor: pointer;
+}
+.ground1-4 {
+    background: linear-gradient(
+          45deg, 
+          rgba(244, 245, 244, 0.5) 0, rgba(237, 239, 238, 0.5) 25%, transparent 25%, transparent 50%, 
+          rgba(248, 249, 248, 0.5) 50%, rgba(237, 239, 238, 0.5) 75%, transparent 75%, transparent
+        );
+    background-size: 20px 20px;
+    width: 25%;
+    height: 23%;
+    position: absolute;
+    margin-top: 5%;
+    z-index: 7;
+}

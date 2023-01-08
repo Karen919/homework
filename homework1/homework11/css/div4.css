@@ -1,0 +1,88 @@
+.div4 {
+    background-image: linear-gradient(45deg, #293033, #364c56);
+    width: calc(((100% - 1140px) / 2) + 1140px);
+    height: 879px;
+    margin-top: 600px;
+    z-index: 41;
+    color: aliceblue;
+    align-items: flex-start;
+}
+.span4-1 {
+   background-color: #293033; 
+  
+   width: 190px;
+   height: 171px;
+   background-image: none;
+   margin-left: 1329px;
+   position: absolute;
+   z-index: 40;
+}
+
+.span4-2 {
+    background-image: linear-gradient(#bf795c, #364c56);
+    padding: 280px 250px;
+    z-index: 14;
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 750px;
+}
+
+.span4-5 img {
+    width: 485px;
+    height: 520px;
+    box-shadow: 0 0 35px 0 rgb(0 0 0 / 50%);
+    object-position: 100% 100%;
+    background-position: 100% 100%;
+    margin: 153px 700px;
+    position: absolute;
+    z-index: 43;
+}
+.span4-6  p {
+    width: 400px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    margin-top: 30px;
+
+    
+}
+.span4-6 {
+    margin: 200px 140px;
+    position: absolute;
+}
+.span4-6 h1 {
+    width: 230px;
+    font-size: 70px;
+    
+}
+
+.div4 button {
+    background-color: #bf7a5c00;
+    color: aliceblue;
+    font-size: 20px;
+    padding: 20px 40px;
+    border: #f8fafb solid 2px;
+    margin-top: 60px;
+    
+}
+.span4-3 {
+    border: #f8fafb solid 12px;
+    padding: 100px 170px;
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 800px;
+}
+.span4-4 {
+    background: linear-gradient(
+        45deg, 
+        rgba(244, 245, 244, 0.5) 0, rgba(237, 239, 238, 0.5) 25%, transparent 25%, transparent 50%, 
+        rgba(244, 243, 242, 0.5) 50%, rgba(239, 238, 237, 0.5) 75%, transparent 75%, transparent
+      );
+      background-size: 20px 20px;
+   width: 320px;
+   height: 120px;
+   position: absolute;
+   margin-top: 620px;
+   margin-left: 1000px;
+   z-index: 58;
+}

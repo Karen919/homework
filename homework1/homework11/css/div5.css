@@ -1,0 +1,78 @@
+.span5-5 {
+    background-color: #364c56;
+    padding: 300px 280px;
+    position: relative;
+    left: -150px;
+    z-index: 50;
+}
+.span5-3 img {
+    width: 400px;
+    position: relative;
+    left: 200px;
+    background-size: cover;
+    top: -50px;
+    z-index: 51;
+}
+
+.span5-4 img {
+    width: 350px;
+    height: 350px;
+    position: relative;
+    left: 500px;
+    top: -120px;
+    z-index: 52;
+}
+.span5-1 h1 {
+    display: block;
+    font-size: 50px;
+    text-align: center;
+    padding: 40px  0;
+    margin-left: -220px;
+    font-family:sans-serif;
+}
+.span5-2 p {
+    width: 600px;
+    position: relative;
+    top: 100px;
+    left: 700px;
+    font-size: 22px;
+    line-height: 1.3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.span5-6 {
+    width: 486px;
+    height: 398px;
+    background-image: linear-gradient(#bf795c, #364c56);
+    padding: 10px;
+    position: absolute;
+    margin-left: -1150px;
+    margin-top: 100px;
+    z-index: 50;
+}
+.span5-7 {
+    background: linear-gradient(
+        45deg, 
+        rgba(240, 90, 31, 0.5) 0, rgba(241, 112, 13, 0.5) 25%, transparent 25%, transparent 50%, 
+        rgba(248, 73, 19, 0.5) 50%, rgba(239, 106, 11, 0.5) 75%, transparent 75%, transparent
+      );
+        background-size: 20px 20px;
+        position: absolute;
+        padding: 120px;
+        width: 100px;
+        margin-left: -450px;
+        margin-top: 200px;
+        z-index: 51;
+        
+      
+}
+.span5-8 p {
+    position: absolute;
+    width: 470px;
+    font-size: 50px;
+    margin-left: 530px;
+    margin-top: -100px;
+    z-index: 55;
+    text-align: left;
+    color: aliceblue;
+    line-height: 1.2;
+}
